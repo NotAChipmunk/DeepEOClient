@@ -1,2 +1,3 @@
 # Latest EO Client
- The latest EO client
+ Client patched to 0.3.29b
+ 
